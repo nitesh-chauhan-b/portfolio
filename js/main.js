@@ -9,7 +9,7 @@ document.getElementById('contact-form').addEventListener('submit', async functio
 
     try {
         const formData = new FormData(this);
-        const response = await fetch('https://formsubmit.co/ajax/nkchauhan9090@gmail.com', {
+        const response = await fetch('https://formsubmit.co/ajax/niteshchauhanb@gmail.com', {
             method: 'POST',
             body: formData,
             headers: {
